@@ -1,0 +1,36 @@
+.heading{
+    margin:15px;
+    font-family: 'Chakra Petch', sans-serif;
+    text-align:center;
+}
+#h{
+    color:red;
+}
+#op{
+    margin-top:70px;
+    margin-left:240px;
+}
+.btn1{
+    margin:10px;
+    padding : 10px;
+    display:inline-block;
+    border: 2px solid purple;
+    border-radius: 5px;
+    width:40%;
+    height:120px;
+    text-align:center;
+}
+.para{
+    margin:15px;
+    font-family: 'Righteous', cursive;
+}
+.list-group1{
+    margin-top:70px;
+    align:center;
+    text-align:center;
+    width:200px;
+    margin-left:41%;
+}
+
+
+
